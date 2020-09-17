@@ -3,7 +3,6 @@
 """
     @version: v1.0
     @author: HunWong
-    @license: Apache Licence 
-    @contact: hun.wong@huamengtax.com
+    @license: Apache Licence
     @time: 2020/09/17
 """
