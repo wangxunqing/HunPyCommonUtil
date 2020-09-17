@@ -10,8 +10,7 @@ import json
 import requests
 
 # 百度地图开放平台 http://lbsyun.baidu.com/
-# ak = '百度地图开放平台中配置的访问应用AK'
-ak = '8DK8QuKs05SozUvO1Gkr6h2APbLWbYtw'
+ak = '百度地图开放平台中配置的访问应用AK'
 
 
 def ip2province(ip):
